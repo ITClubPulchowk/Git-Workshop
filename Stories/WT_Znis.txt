@@ -1,0 +1,16 @@
+Name: Jenish Twayna
+Github Username: Znis
+
+
+**JHYAU LAGDO KATHA**
+Ekadesh ma euta Ram vane bekti thyo. Usle dherai vaat khanthyo.
+aba usko naam BHAATEY vayo. (main branch bata same line ma add gareko)
+tei vayera uslai sabai jana le vaatey vanera bolauna thalyo(yo line newbranch bata haleko)
+
+
+
+
+
+
+
+ 
