@@ -17,8 +17,8 @@ Please follow the guidelines below when submitting your assignment:
 
 The pull requests which don't follow the aforementioned guidelines will not be accepted.
 
-** Also, remember the following **
+**Also, remember the following**
 
-* Do NOT work in the `main` branch of your local repository. Always create a new branch when making changes.
+* Do **NOT** work in the `main` branch of your local repository. Always create a new branch when making changes.
 * Always do a `git pull` or `git fetch` **before** you push your changes to your remote.
 
