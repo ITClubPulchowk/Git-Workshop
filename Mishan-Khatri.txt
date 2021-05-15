@@ -1,6 +1,10 @@
 Title-Four lines of story
 
+<<<<<<< HEAD
 I love you, he said...
+=======
+I love you sweetheart, he said...
+>>>>>>> branch_one
 
 You mustn't, she replied...
 
