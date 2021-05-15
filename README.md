@@ -2,7 +2,7 @@
 
 This repository constains the assignment submission for "Version Control with Git Workshop 2021", organized jointly by [LOCUS 2021](https://locus.pcampus.edu.np/) and [IT Club, Pulchowk](https://github.com/IT-Club-Pulchowk) and supported by GitHub.
 
-Please read [Contributing.md](https://github.com/IT-Club-Pulchowk/Git-Workshop/blob/81137e45986bacce70046421d4f1cfa8725c206a/Contributing.md) to find the requirements to complete the assignment. In particular,  you will submit a pull request to this repository with the requirements as stated in the `Contributing.md` file.  The pull request will then be reviewed by our instructors and volunteers. The assignment is completed when your pull request is accepted. 
+Please read [Contributing.md](Contributing.md) to find the requirements to complete the assignment. In particular,  you will submit a pull request to this repository with the requirements as stated in the `Contributing.md` file.  The pull request will then be reviewed by our instructors and volunteers. The assignment is completed when your pull request is accepted. 
 
 Those students who have successfully completed the assignment will receive a digital copy of a certificate from LOCUS and IT Club, Pulchowk. In case you want a physical copy, please contact [Asim Maharjan](https://github.com/ABoredComputerEngineer) or [Rabin Adhikari](https://github.com/rabinadk1). Due to the present conditions, the physical certificates will not be distributed until the college resumes physically. 
 
@@ -23,6 +23,7 @@ As always, thank you for being a part of the workshop!
 
 ### Volunteers
 * [Aayush Lamichhane](https://github.com/aayushprime)
+* [Ankit Paudel](https://github.com/ankitpaudel20)
 * [Biraj Bikram Pathak](https://github.com/BPATHAK10)
 * [Bishad Koju](https://github.com/Bishadkoju)
 * [Bishal Katuwal](https://github.com/bishal216)
@@ -37,7 +38,6 @@ As always, thank you for being a part of the workshop!
 * [Sanskar Amgain](https://github.com/Imsanskar)
 * [Shashwat Jha](https://github.com/jhashwat)
 * [Smaran Dhungana](https://github.com/SmaranDhg)
-* Smloy
 * [Tilak Chad](https://github.com/TilakChad)
 
 ### Poster Designing/ Video Editing
