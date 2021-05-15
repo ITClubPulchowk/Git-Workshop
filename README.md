@@ -22,7 +22,7 @@ As always, thank you for being a part of the workshop!
 
 
 ### Volunteers
-* Atlantis
+* [Aayush Lamichhane](https://github.com/aayushprime)
 * [Biraj Bikram Pathak](https://github.com/BPATHAK10)
 * [Bishad Koju](https://github.com/Bishadkoju)
 * [Bishal Katuwal](https://github.com/bishal216)
