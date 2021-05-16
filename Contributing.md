@@ -1,7 +1,7 @@
 # Git Workshop Assignment Guidelines
 The pull request should contain the following additions:
 
-1. A new file named **username.txt** . For e.g, john-doe.txt. 
+1. A new file named **username.txt** inside the Stories directory. For e.g, john-doe.txt. 
 2. The newly created file should contain a short story of your choice along with your **name** and your **Github username**. 
 3. A commit resolving a merge conflict. 
 
