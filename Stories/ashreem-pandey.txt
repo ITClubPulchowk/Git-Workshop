@@ -22,5 +22,6 @@ The race is not always to the swift.
 
 
 name: Ashreem Pandey
-email: 077bct014.ashreem@pcampus.edu.np
 github username: AshreemPandey
+email: 077bct014.ashreem@pcampus.edu.np
+
