@@ -1,0 +1,15 @@
+Title: Vim
+
+Vim (/vɪm/;[2] a contraction of Vi IMproved) is a clone, with additions, of Bill Joy's vi text editor program for Unix. Vim's author, Bram Moolenaar, based it on the source code for a port of the Stevie editor to the Amiga[3] and released a version to the public in 1991. Vim is designed for use both from a command-line interface and as a standalone application in a graphical user interface. Vim is free and open-source software and is released under a license that includes some charityware clauses, encouraging users who enjoy the software to consider donating to children in Uganda.[4] The license is compatible with the GNU General Public License through a special clause allowing distribution of modified copies "under the GNU GPL version 2 or any later version".[5]
+
+Since its release for the Amiga, cross-platform development has made it available on many other systems. In 2006, it was voted the most popular editor amongst Linux Journal readers;[6] in 2015 the Stack Overflow developer survey found it to be the third most popular text editor,[7] and in 2019 the fifth most popular development environment.[8]
+
+...
+
+Source: https://en.wikipedia.org/wiki/Vim_(text_editor)
+
+---
+
+Name: Prajwol Pradhan
+Email: 076bei023.prajwol@pcampus.edu.np
+       jarp0l@secret.fyi
