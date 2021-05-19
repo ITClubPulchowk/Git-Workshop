@@ -1,4 +1,7 @@
 Title: Vim
 Source: https://en.wikipedia.org/wiki/Vim_(text_editor)
 
+Name: Prajwol Pradhan
+Email: 076bei023.prajwol@pcampus.edu.np
+       jarp0l@secret.fyi
 
