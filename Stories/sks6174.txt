@@ -1,6 +1,8 @@
 A Game of Thrones
 by George R. R. Martin
 
+# This is an excerpt taken from the Game of Thrones.
+
 Bran Stark has a vision of the past which shows Ned Stark reuniting with his dying sister Lyanna Stark in the Tower of Joy. 
 
 Walking forward to the Tower of Joy, Bran finally hears Lyanna's dying words.
