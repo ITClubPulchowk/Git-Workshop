@@ -5,3 +5,8 @@ Vim (/vɪm/;[2] a contraction of Vi IMproved) is a clone, with additions, of Bil
 
 Since its release for the Amiga, cross-platform development has made it available on many other systems. In 2006, it was voted the most popular editor amongst Linux Journal readers;[6] in 2015 the Stack Overflow developer survey found it to be the third most popular text editor,[7] and in 2019 the fifth most popular development environment.[8]
 
+---
+
+Name: Prajwol Pradhan
+Email: 076bei023.prajwol@pcampus.edu.np
+       jarp0l@secret.fyi
